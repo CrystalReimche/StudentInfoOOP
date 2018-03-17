@@ -1,0 +1,7 @@
+E:\Coding\Udemy\C# Programming Exercises for Beginners\4-1-StudentIntoOOP\4-1-StudentIntoOOP\bin\Debug\4-1-StudentIntoOOP.exe.config
+E:\Coding\Udemy\C# Programming Exercises for Beginners\4-1-StudentIntoOOP\4-1-StudentIntoOOP\bin\Debug\4-1-StudentIntoOOP.exe
+E:\Coding\Udemy\C# Programming Exercises for Beginners\4-1-StudentIntoOOP\4-1-StudentIntoOOP\bin\Debug\4-1-StudentIntoOOP.pdb
+E:\Coding\Udemy\C# Programming Exercises for Beginners\4-1-StudentIntoOOP\4-1-StudentIntoOOP\obj\Debug\4-1-StudentIntoOOP.csprojResolveAssemblyReference.cache
+E:\Coding\Udemy\C# Programming Exercises for Beginners\4-1-StudentIntoOOP\4-1-StudentIntoOOP\obj\Debug\4-1-StudentIntoOOP.csproj.CoreCompileInputs.cache
+E:\Coding\Udemy\C# Programming Exercises for Beginners\4-1-StudentIntoOOP\4-1-StudentIntoOOP\obj\Debug\4-1-StudentIntoOOP.exe
+E:\Coding\Udemy\C# Programming Exercises for Beginners\4-1-StudentIntoOOP\4-1-StudentIntoOOP\obj\Debug\4-1-StudentIntoOOP.pdb
